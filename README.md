@@ -30,8 +30,8 @@ This project implements a Transformer model for machine translation, specificall
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/ram1993/translation_llm_model_from_scratch
+    cd translation_llm_model_from_scratch
     ```
 
 2.  **Install dependencies:**
