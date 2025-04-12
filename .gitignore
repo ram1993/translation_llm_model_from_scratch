@@ -147,4 +147,4 @@ cython_debug/
 .Trashes
 ehthumbs.db
 Thumbs.db
-./transformer_implementation_plan.md
+transformer_implementation_plan.md
